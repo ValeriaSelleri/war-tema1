@@ -1,0 +1,5 @@
+1;PaisA;2,3
+2;PaisB;1,3
+3;PaisC;1,2
+4;PaisD;5
+5;PaisE;4
